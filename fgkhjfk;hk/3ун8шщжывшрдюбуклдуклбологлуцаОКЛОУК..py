@@ -1,0 +1,1 @@
+print([i if i.isupper() else None for i in input("Ваша смска")])
